@@ -1,4 +1,5 @@
 # Template para criação de uma API
+### Criação de uma API com nodeJS e Sequelize
 
 ## Rodar o repositório:
 
