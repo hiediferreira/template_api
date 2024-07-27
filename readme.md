@@ -1,4 +1,4 @@
-# Semana 07 - Express Avançado
+# Template para criação de uma API
 
 ## Rodar o repositório:
 
